@@ -166,6 +166,7 @@ TTRPG Tracker v0.0.2.U - Inventory and MyChracter updates
 ___________________________________________________________________________________________________________________________________________________________________________________________
 TTRPG Tracker v0.0.3.U - Locations+NPCs
 10/12/24
+See a video of this version in action here: https://youtu.be/DSHGzGqZ8mU
 	I got the NPCs and Locations buttons to work and the user can now create and save locations and NPCs along
 	with detials for each. These two things use the same scripts and scenes as Inventory and Spells.
 	Now everyting works except for Notes and the ability to delete Games, Items, Spells, NPCs, Locations, and
