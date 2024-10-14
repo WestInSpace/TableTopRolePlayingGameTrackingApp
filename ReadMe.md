@@ -102,20 +102,7 @@ ORDER:
                 >
                     ~
 ___________________________________________________________________________________________________________________________________________________________________________________________
-TTRPG Tracker v0.0.0 - Start (Again)
-10/8/24
-	This time I'm using GoDot Engine to make the app becsue it's open source and is similar to Unity. Also I
-	don't agree with many of Unity's new policies.
-	I set up the general form of the main menu but have not yet scripted any of the buttons to work. There is no
-	function, it is simply form in this version.
-___________________________________________________________________________________________________________________________________________________________________________________________
-TTRPG Tracker v0.0.1 - NewGamePopUp
-10/9/24
-	I made the popUp menu for creaeting a new game and I wrote the script to disply the popUp and cancel the pop
-	up menu. In htis version the create new game pop up is able to be displayed and hidden by using the add and
-	cancel buttons respectivly.
-___________________________________________________________________________________________________________________________________________________________________________________________
-TTRPG Tracker v0.0.0.U - Change to Unity
+TTRPG Tracker v0.0.0.U - Start
 10/9/24
 	I decided to change my development back to Unity becasue I decided that I already know that software well and
 	I'm probably not going to publish this software anyway so Unity's new policies won't effect me. It will be
