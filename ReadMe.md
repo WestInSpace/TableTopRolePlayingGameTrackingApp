@@ -21,7 +21,7 @@ Serial Number outline
 				> Constitution saving throws (###.CoST) (string)
 			+ Intelligence level (###.INTL) (string)
 			+ Intelligence mod (###.INTM) (string)
-`				> Intelligence saving throws (###.InST) (string)
+				> Intelligence saving throws (###.InST) (string)
 				> Arcana (###.Arca) (string)
 				> History (###.Hist) (string)
 				> Investigation (###.Inve) (string)
